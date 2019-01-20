@@ -1,0 +1,7 @@
+C:\Users\ww\source\repos c#\IntroducingToClass\IntroducingToClass\bin\Debug\IntroducingToClass.exe.config
+C:\Users\ww\source\repos c#\IntroducingToClass\IntroducingToClass\bin\Debug\IntroducingToClass.exe
+C:\Users\ww\source\repos c#\IntroducingToClass\IntroducingToClass\bin\Debug\IntroducingToClass.pdb
+C:\Users\ww\source\repos c#\IntroducingToClass\IntroducingToClass\obj\Debug\IntroducingToClass.csprojAssemblyReference.cache
+C:\Users\ww\source\repos c#\IntroducingToClass\IntroducingToClass\obj\Debug\IntroducingToClass.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos c#\IntroducingToClass\IntroducingToClass\obj\Debug\IntroducingToClass.exe
+C:\Users\ww\source\repos c#\IntroducingToClass\IntroducingToClass\obj\Debug\IntroducingToClass.pdb
